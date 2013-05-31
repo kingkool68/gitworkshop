@@ -24,6 +24,9 @@ Main
 7. Push your change (git push)
 8. Pull if you can't push! (git pull)
 
-Get Avanced
+Get Advanced
 ===========
 9. Checkout a new branch
+10. Greg Smells.
+
+11. I am editing - Sam
